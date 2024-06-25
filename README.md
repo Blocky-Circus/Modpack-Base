@@ -59,6 +59,7 @@ Links are a WIP.
 ## Optional
 Optional mods that may not fit every modpack.
 - [Enchanting Infuser]()
+- [Antique Atlas](https://modrinth.com/mod/antique-atlas)
 
 ## To Be Sorted
 - [Freecam]()

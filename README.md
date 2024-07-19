@@ -3,7 +3,7 @@ A list of commonly used mods for Blocky Circus modpacks.
 
 Links are a WIP.
 
-## 1. Core Mods
+## Core Mods
 ### Performance
 - [Sodium]()
 - [Sodium Extra]()
@@ -12,48 +12,67 @@ Links are a WIP.
 - [Lithium]()
 - [Starlight]()
 - [Indium]()
+- [Continuity]()
 - [Clumps]()
 - [Entity Culling]()
 - [More Culling]()
 
-### Recipe Browser
-- [EMI]()
-- [EMI Enchanting]()
-- [EMI Loot]()
-- [EMI Ores]()
-- [EMI Trades]()
-- [EMIffect]()
-
-### ???
+### HUD & GUI
 - [Mod Menu]()
-- [Iris Shaders]()
-- [Continuity]()
 - [Jade]()
 - [Jade Addons]()
 - [Borderless Mining]()
+- [BetterF3]()
+- [Better Ping Display]()
+- [AdvancementInfo]()
+- [Better Advancements]()
+- [Better Mount HUD]()
+- [Better Statistics]()
+- [Game Menu Remove GFARB]()
+- [Toast Control]() / [The Open Sauce Toast Killer]()
+- [Chat Heads]()
+- [Blur]()
+- [Item Highlighter]()
+- [Trade Cycling]()
 - [Controlling]()
+- [EMI]()
+- [EMI Loot]()
+- [EMI Ores]()
+- [EMI Trades]()
+- [EMI Enchanting]()
+- [EMIffect]()
+- [EMICompat]()
+
+### Graphics
+- [Iris Shaders]()
 - [Mouse Tweaks]()
 - [Appleskin]()
 
-## 2. Quality of Life
+### Customization
+- [Cosmetic Armor]()
+- [Show Me Your Skin]() / [Glass Armor]()
+
+## Quality of Life
+- [Armor Poser](https://modrinth.com/mod/armor-poser)
+- [Boat Item View]()
 - [Double Doors]()
 
-## 3. Gameplay
+## Gameplay
 - [Origins]()
 - [Extra Origins]()
 - [Friends&Foes]()
 - [Easy Anvils]()
 - [Easy Magic]()
 - [Easy Shulker Boxes]()
-- [Farmer's Delight]()
+- [Farmer's Delight Refabricated]()
 
-## 4. Decoration
+## Decoration
 - [Adorn]()
 - [Beatuify]()
 - [Decorative Blocks]()
 - [Twigs]()
 
-## 5. Structures
+## Structures
 - [Repurposed Structures]()
 
 ## Optional
@@ -63,36 +82,22 @@ Optional mods that may not fit every modpack.
 
 ## To Be Sorted
 - [Freecam]()
-- [Game Menu Remove GFARB]()
 - [Essential]()
 - [Falling Leaves]()
 - [3D Skin Layers]()
 - [A Good Place]()
 - [Carry On]()
-- [Toast Control]()
 - [EnchantmentDescriptions]()
-- [Chat Heads]()
-- [BetterF3]()
-- [Better Ping Display]()
-- [AdvancementInfo]()
 - [Accelerated Decay]()
 - [A Good Place]()
 - [Auditory Continued]()
-- [Better Advancements]()
-- [Better Mount HUD]()
-- [Better Statistics]()
-- [Blur]()
-- [Boat Item View]()
 - [Bundle Jumble]()
 - [Chat Animation]()
 - [Clickthrough]()
 - [Comforts]()
-- [Cosmetic Armor]()
-- [Show Me Your Skin]()
 - [Durability Tooltip]()
 - [EasierVillagerTrading]()
 - [Figura]()
-- [Item Highlighter]()
 - [ItemFlexer]()
 - [Litematica]()
 - [Lootr]()
@@ -104,7 +109,7 @@ Optional mods that may not fit every modpack.
 - [Sophisticated Backpacks]()
 - [Sophisticated Storage]()
 - [Sparkle]()
-- [Trace Cycling]()
 - [Traveler's Backpack]()
 - [[Let's Do] BloomingNature]()
 - [[Let's Do] Meadow]()
+- [Open Loader]()

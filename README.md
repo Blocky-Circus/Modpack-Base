@@ -91,7 +91,6 @@ Optional mods that may not fit every modpack.
 - [Carry On]()
 - [EnchantmentDescriptions]()
 - [Accelerated Decay]()
-- [A Good Place]()
 - [Auditory Continued]()
 - [Bundle Jumble]()
 - [Chat Animation]()
